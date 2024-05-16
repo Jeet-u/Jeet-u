@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hey, I'm<a href="https://aristi.dev">Jason Arriaza</a> 👋</h1>
-  <p>Web designer and Developer based in Texas, United States.
+<h1 align="center">Hey, I'm <a href="#">Jason Arriaza</a> 👋</h1>
+  <p>Web designer and Developer based in Texas, United States. <br />
 I specialize in FULL STACK development, UI Design, Responsive Web Designand Visual Development</p>
 </div>
 
