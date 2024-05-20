@@ -4,6 +4,8 @@
 I specialize in FULL STACK development, UI Design, Responsive Web Designand Visual Development</p>
 </div>
 
+![image](https://github.com/Jeet-u/Jeet-u/assets/156883810/515e0215-2367-436d-91cd-998097a0fc5d)
+
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@jeet-u1l)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/Jeet-u)
