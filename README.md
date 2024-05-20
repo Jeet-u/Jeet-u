@@ -1,10 +1,12 @@
+![image](https://github.com/Jeet-u/Jeet-u/assets/156883810/515e0215-2367-436d-91cd-998097a0fc5d)
+
 <div align="center">
 <h1 align="center">Hey, I'm <a href="#">Jason Arriaza</a> 👋</h1>
   <p>Web designer and Developer based in Texas, United States. <br />
 I specialize in FULL STACK development, UI Design, Responsive Web Designand Visual Development</p>
 </div>
 
-![image](https://github.com/Jeet-u/Jeet-u/assets/156883810/515e0215-2367-436d-91cd-998097a0fc5d)
+
 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@jeet-u1l)
