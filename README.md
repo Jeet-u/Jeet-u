@@ -2,8 +2,8 @@
 
 <div align="center">
 <h1 align="center">Hey, I'm <a href="#">Jason Arriaza</a> 👋</h1>
-  <p>Web designer and Developer based in Texas, United States. <br />
-I specialize in FULL STACK development, UI Design, Responsive Web Designand Visual Development</p>
+  <p>Web Designer and Developer | DevOps and Security Engineer<br />
+Based in Texas, United States, I specialize in Full Stack Development, UI Design, Responsive Web Design, and Visual Development. With a robust foundation in DevOps and Security Engineering, I am dedicated to creating seamless, secure, and visually appealing web solutions. My expertise spans across various aspects of web development, ensuring that your projects are not only aesthetically pleasing but also highly functional and secure.</p>
 </div>
 
 
